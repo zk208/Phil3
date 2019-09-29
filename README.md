@@ -1,1 +1,2 @@
-# Phil3
+# Phil
+Website for Minorities in Philosophy RSO
